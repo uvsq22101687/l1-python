@@ -60,7 +60,7 @@ a * 3
 (a + b) * 2
 a . upper()
 a > b
-a = 32
+a = "32"
 a * 2 
 int()
 s = input("tape quelque chose au clavier")
